@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Testando essa treta aqui!!! 
-
 Realizando testes no Read-Me
 
 Verificando informações testes
